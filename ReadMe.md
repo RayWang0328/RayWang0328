@@ -1,5 +1,5 @@
 # 💫 About Me:
-Current ML Engineer at Colby College ready to learn!
+Current ML Engineer at Colby College always ready to learn more! 
 
 
 ## 🌐 Socials:
