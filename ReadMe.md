@@ -1,8 +1,17 @@
 # 💫 About Me:
-Current ML Engineer at Colby College always ready to learn more! 
+Hi there 👋
+I'm a student at Colby College majoring in Computer Science with concentrations in AI and Math.
 
+# 🛠️ Skills
+Machine Learning Systems
+* Experienced building, training, and evaluating machine learning models.
+Web Design
+* Proficient in HTML, CSS, JavaScript, and Flask for building responsive web applications.
 
-## 🌐 Socials:
+# 🗂️ Projects:
+* [Trash Detection App](https://github.com/RayWang0328/Colby-Trash-App) - Dynamic web app integrating Computer Vision pipeline to detect, classify, and map marine debris 
+* [Atoll Segmentation App](https://github.com/RayWang0328/Atoll-Semantic-Segmentation) - Simple Web App incorperating ML backend for Segmentation of Atoll Morphometrics
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ray-wang-7bb925208) 
 
 # 💻 Tech Stack:
