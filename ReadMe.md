@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there 👋
-I'm a student at Colby College majoring in Computer Science with concentrations in AI and Math.
+I'm a student at Colby College majoring in Computer Science with a concentration in AI and Math.
 
 # 🛠️ Skills
 #### Machine Learning Systems
