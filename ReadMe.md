@@ -1,3 +1,6 @@
+
+![github-header-image](https://github.com/RayWang0328/RayWang0328/assets/19866871/e8980322-c4f4-49d6-9a15-9b48850dcb4f)
+
 # 💫 About Me:
 Hi there 👋
 I'm a student at Colby College majoring in Computer Science with a concentration in AI and Math.
