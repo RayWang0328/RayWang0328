@@ -15,7 +15,7 @@ I'm a student at Colby College majoring in Computer Science with a concentration
 * [Trash Detection App](https://github.com/RayWang0328/React-Trash-Detection-App) - Dynamic web app integrating Computer Vision pipeline to detect, classify, and map marine debris
   * Built on [HTML/CSS](https://github.com/RayWang0328/Trash-Detection-App)
   * Built on [React](https://github.com/RayWang0328/React-Trash-Detection-App)
-* [**Atoll Segmentation App**](https://github.com/RayWang0328/Atoll-Semantic-Segmentation) - Simple Web App incorperating ML backend for Segmentation of Atoll Morphometrics
+* [Atoll Segmentation App](https://github.com/RayWang0328/Atoll-Semantic-Segmentation) - Simple Web App incorperating ML backend for Segmentation of Atoll Morphometrics
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ray-wang-7bb925208) 
 
