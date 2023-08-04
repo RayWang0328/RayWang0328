@@ -9,7 +9,7 @@ I'm a student at Colby College majoring in Computer Science with a concentration
 #### Machine Learning Systems
 * Experienced building, training, and evaluating machine learning models.
 #### Web Design
-* Proficient in HTML, CSS, JavaScript, and Flask for building responsive web applications.
+* Proficient in HTML, CSS, React, JavaScript, and Flask for building responsive web applications.
 
 # 🗂️ Projects:
 * #### [**Trash Detection App**](https://github.com/RayWang0328/React-Trash-Detection-App) - Dynamic web app integrating Computer Vision pipeline to detect, classify, and map marine debris
