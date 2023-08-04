@@ -12,7 +12,7 @@ I'm a student at Colby College majoring in Computer Science with a concentration
 * Proficient in HTML, CSS, JavaScript, and Flask for building responsive web applications.
 
 # 🗂️ Projects:
-* [**Trash Detection App**](https://github.com/RayWang0328/React-Trash-Detection-App) - Dynamic web app integrating Computer Vision pipeline to detect, classify, and map marine debris
+* [Trash Detection App](https://github.com/RayWang0328/React-Trash-Detection-App) - Dynamic web app integrating Computer Vision pipeline to detect, classify, and map marine debris
   * Built on [HTML/CSS](https://github.com/RayWang0328/Trash-Detection-App)
   * Built on [React](https://github.com/RayWang0328/React-Trash-Detection-App)
 * [**Atoll Segmentation App**](https://github.com/RayWang0328/Atoll-Semantic-Segmentation) - Simple Web App incorperating ML backend for Segmentation of Atoll Morphometrics
